@@ -38,7 +38,11 @@ namespace Lab17_WebApi.Controllers
             return _context.ToDos.ToList();
         }
 
-        // GET: api/ToDos/5
+        /// <summary>
+        /// Retrieves a ToDo through the route
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>the Json todo</returns>
         [HttpGet("{id}", Name = "GetToDo")]
         public async Task<ActionResult<ToDo>> GetById(int id)
         {
@@ -51,7 +55,11 @@ namespace Lab17_WebApi.Controllers
         }
 
 
-        // POST: api/ToDos
+        /// <summary>
+        /// Creates a todo through a body
+        /// </summary>
+        /// <param name="item"></param>
+        /// <returns>Returns to Get request for the specific ID of the item made</returns>
         [HttpPost]
         public async Task<IActionResult> Create(ToDo item)
         {
@@ -60,7 +68,12 @@ namespace Lab17_WebApi.Controllers
             return CreatedAtRoute("GetTodo", new { id = item.ID }, item);
         }
 
-        // PUT: api/ToDos/5
+        /// <summary>
+        /// Updates an item through the id in the route
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="item"></param>
+        /// <returns>Nothing</returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> Update([FromRoute]int id,[FromBody] ToDo item)
         {
@@ -79,7 +92,11 @@ namespace Lab17_WebApi.Controllers
             return NoContent();
         }
 
-        // DELETE: api/ApiWithActions/5
+        /// <summary>
+        /// Deletes the item in the DB with the id in the route
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
