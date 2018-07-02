@@ -1,0 +1,14 @@
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\bin\Debug\netcoreapp2.1\Lab17-WebApi.deps.json
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\bin\Debug\netcoreapp2.1\Lab17-WebApi.runtimeconfig.json
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\bin\Debug\netcoreapp2.1\Lab17-WebApi.runtimeconfig.dev.json
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\bin\Debug\netcoreapp2.1\Lab17-WebApi.dll
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\bin\Debug\netcoreapp2.1\Lab17-WebApi.pdb
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.csprojAssemblyReference.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.RazorAssemblyInfo.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.RazorAssemblyInfo.cs
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.AssemblyInfoInputs.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.AssemblyInfo.cs
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.dll
+C:\Users\Owner\codefellows\401\Lab17-WebApi\Lab17-WebApi\obj\Debug\netcoreapp2.1\Lab17-WebApi.pdb
