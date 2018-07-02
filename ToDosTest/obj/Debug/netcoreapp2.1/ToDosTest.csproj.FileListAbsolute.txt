@@ -1,0 +1,4 @@
+C:\Users\Owner\codefellows\401\Lab17-WebApi\ToDosTest\obj\Debug\netcoreapp2.1\ToDosTest.csprojAssemblyReference.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\ToDosTest\obj\Debug\netcoreapp2.1\ToDosTest.csproj.CoreCompileInputs.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\ToDosTest\obj\Debug\netcoreapp2.1\ToDosTest.AssemblyInfoInputs.cache
+C:\Users\Owner\codefellows\401\Lab17-WebApi\ToDosTest\obj\Debug\netcoreapp2.1\ToDosTest.AssemblyInfo.cs
